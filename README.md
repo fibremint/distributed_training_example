@@ -4,7 +4,7 @@ The training codes are migrated from [this repository](https://github.com/zizhao
 
 ## Features
 * Deep Learning training loop with Tensorflow 2
-* Training data preparation (load, augmentation, pre-processing) implemented with Tensorflow API, served as Tensorflow Dataset
+* Training data preparation (load, augmentation, pre-processing) implemented in Tensorflow API, served as Tensorflow Dataset
 * Recorded training history (loss, accuracy, learning rate) is visible on the Tensorboard
 
 ## Training argument example
